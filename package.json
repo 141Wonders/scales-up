@@ -1,0 +1,15 @@
+{
+  "name": "scales-up",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Elliot H",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.1.2"
+  }
+}
